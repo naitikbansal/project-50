@@ -1,0 +1,23 @@
+h1 {
+    color:blue;
+    margin-left:230px;
+}
+
+.header * {
+    background:chocolate;
+    border: solid;
+} 
+
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    margin-top: 40px;
+}
+
+.item{
+    border:solid;
+    background:hotpink;
+}
